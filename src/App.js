@@ -3,6 +3,9 @@ import React from 'react'
 import { Header, Footer, Blog, Possibility, Features, WhatGPT3 } from './containers'
 import { CTA, Brand, Navbar } from './components'
 
+import './App.css'
+import './index.css'
+
 const App = () => {
     return (
         <div className="App">
